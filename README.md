@@ -1,2 +1,2 @@
-# restaurant_sentiment
+# restaurant-sentiment
 Full stack project conducting sentiment analysis on restaurants in a the suburb of Melbourne
